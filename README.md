@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gute Nacht</h1>
 <h3 align="center">A professional rich American man who knows absolutely everything.</h3>
-(img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/922603678463049748/986701337402155148/download.gif")
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/922603678463049748/986701337402155148/download.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dacianfan&label=Profile%20views&color=0e75b6&style=flat" alt="dacianfan" /> </p>
 
