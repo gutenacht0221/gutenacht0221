@@ -6,13 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dacianfan" alt="dacianfan" /></a> </p>
 
-- 🔭 I’m currently working on **a pretty okay Python RAT**
-
-- 🌱 I’m currently learning **the programming language C**
-
 - 📫 You can reach me at: **Discord: Gute Nacht#0221, discord.gg/carryhub**
-
-- ⚡ Fun fact **I'm not German**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
