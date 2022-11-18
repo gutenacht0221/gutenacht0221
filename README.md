@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gutenacht0221" alt="gutenacht0221" /></a> </p>
 
-- I’m currently learning **Javascript**
+- I’m currently learning **Java**
 - All of my projects are available at [my github](https://github.com/gutenacht0221)
 - 📫 Reach me at my Discord **Gute Nacht#0221**
 
