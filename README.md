@@ -9,5 +9,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=gutenacht0221&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitors">
 
 ## Languages
-<img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=black"/> <img width="100px" height="30px" alt="Java" align="center" src="https://img.shields.io/badge/-Java-e66a17?style=flat&logo=openjdk&logoColor=black"/> <img width="100px" height="30px" alt="JavaScript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black"
+<img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=flat&logo=python&logoColor=black"/> <img width="100px" height="30px" alt="Java" align="center" src="https://img.shields.io/badge/-Java-e66a17?style=flat&logo=openjdk&logoColor=black"/>
+
+<img width="100px" height="30px" alt="JavaScript" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black"/>
 
