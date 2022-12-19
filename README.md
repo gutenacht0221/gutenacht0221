@@ -5,3 +5,5 @@
 - 14
 - Self Taught Developer
 - USA
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=gutenacht0221&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitors">
