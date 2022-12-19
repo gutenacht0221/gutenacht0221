@@ -21,3 +21,5 @@
 
 ## Database
 <img alt="MySQL" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=for-the-badge&logo=mysql&logoColor=black" />
+
+<sub>I'm not an expert with all of these, I've used them for >= 1 project :)</sub>
