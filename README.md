@@ -11,4 +11,4 @@
 ## Languages I've used
 <img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=for-the-badge&logo=python&logoColor=black"/> <img width="100px" alt="Java" height="30px" align="center" src="https://img.shields.io/badge/-Java-e66a17?style=for-the-badge&logo=oracle&logoColor=black"/> <img width="100px" alt="JavaScript" height="30px" align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black" /> <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black" />
+<img alt="HTML" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black" /> <img alt="CSS" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black" />
