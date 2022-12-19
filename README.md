@@ -2,6 +2,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gutenacht0221&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 
 ## Gute Nacht
-14
-Self Taught Developer
-USA
+- 14
+- Self Taught Developer
+- USA
