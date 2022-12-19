@@ -8,7 +8,10 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=gutenacht0221&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitors">
 
-## Languages I've used
+## Languages
 <img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=for-the-badge&logo=python&logoColor=black"/> <img width="100px" alt="Java" height="30px" align="center" src="https://img.shields.io/badge/-Java-b45f06?style=for-the-badge&logo=oracle&logoColor=black"/> <img width="100px" alt="JavaScript" height="30px" align="center" src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img alt="HTML" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black" /> <img alt="CSS" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black" />
+
+## Backends
+<img alt="Express" width="100px" height="30px" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black" />
