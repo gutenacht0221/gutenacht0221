@@ -14,4 +14,5 @@
 <img alt="HTML" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black" /> <img alt="CSS" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black" />
 
 ## Backends
-<img alt="Express" width="100px" height="30px" align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img alt="Express" width="100px" height="30px" align="center" src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black" />
+<img alt="Flask" align="center" src="https://img.shields.io/badge/-Flask-03a3a6?style=for-the-badge&logo=flask&logoColor=black" />
