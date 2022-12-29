@@ -19,7 +19,7 @@
 <img alt="Express" width="100px" height="30px" align="center" src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/> <img alt="Flask" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-Flask-03a3a6?style=for-the-badge&logo=flask&logoColor=black"/>
 
 ## IDEs
-<img alt="IntelliJ"  width="100px" height="30px" align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-ee0000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/> <img alt="VSC" width="100px" height="30px" align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
+<img alt="IntelliJ"  width="150px" height="30px" align="center" src="https://img.shields.io/badge/IntelliJ_IDEA-ee0000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black"/> <img alt="VSC" width="100px" height="30px" align="center" src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=black">
 
 ## Database
 <img alt="MySQL" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=for-the-badge&logo=mysql&logoColor=black" />
