@@ -11,7 +11,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=gutenacht0221&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitors">
 
 ## Languages
-<img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=for-the-badge&logo=python&logoColor=black"/> <img width="85px" alt="Java" height="30px" align="center" src="https://img.shields.io/badge/-Java-b45f06?style=for-the-badge&logo=oracle&logoColor=ee0000"/> <img width="140px" alt="JavaScript" height="30px" align="center" src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img width="100px" height="30px" alt="Python" align="center" src="https://img.shields.io/badge/-Python-007aff?style=for-the-badge&logo=python&logoColor=black"/> <img width="85px" alt="Java" height="30px" align="center" src="https://img.shields.io/badge/-Java-b45f06?style=for-the-badge&logo=oracle&logoColor=ee0000"/> <img width="125px" alt="JavaScript" height="30px" align="center" src="https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img alt="HTML" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-HTML-de6400?style=for-the-badge&logo=html5&logoColor=black"/> <img alt="CSS" width="100px" height="30px" align="center" src="https://img.shields.io/badge/-CSS-6810a3?style=for-the-badge&logo=css3&logoColor=black"/>
 
