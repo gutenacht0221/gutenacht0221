@@ -5,8 +5,9 @@
 ## Gute Nacht
 - 14
 - Self Taught Developer
-- I'm not German, Gute Nacht just sounds cool
+- I'm not German
 - USA
+- https://gutenacht.dev/
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=gutenacht0221&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitors">
 
